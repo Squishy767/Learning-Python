@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Grade Calculator V1", "Grade Calculator V1\Grade Calculator V1.pyproj", "{AF5B0706-3D5B-4CB2-A6EF-FFEDB3B96D79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF5B0706-3D5B-4CB2-A6EF-FFEDB3B96D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5B0706-3D5B-4CB2-A6EF-FFEDB3B96D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B5E86A1-6075-4255-9D12-2B7366E9451F}
+	EndGlobalSection
+EndGlobal
