@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CS50 Week 2 Loops", "CS50 Week 2 Loops\CS50 Week 2 Loops.pyproj", "{ECC35288-96F6-4A77-BE1C-71795DD497E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC35288-96F6-4A77-BE1C-71795DD497E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC35288-96F6-4A77-BE1C-71795DD497E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D0A71CC-E522-4647-A350-E0C5E10F50C6}
+	EndGlobalSection
+EndGlobal
